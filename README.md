@@ -2,7 +2,7 @@
 
 ### Overview:
 
-This project focuses on analyzing healthcare-related data to uncover key insights and trends that can inform better decision-making in the healthcare industry. By utilizing SQL and data analysis techniques, the project explores various aspects of healthcare data, such as:-
+This project focuses on analyzing healthcare-related data to uncover key insights and trends that can inform better decision-making in the healthcare industry. By utilizing SQL and data analysis techniques, the project explores various aspects of healthcare data, such as:
   -  Demographics
   -  Diagnosis
   -  Appointmen Time Distribution
@@ -15,6 +15,11 @@ This project focuses on analyzing healthcare-related data to uncover key insight
  - Data Cleaning & Transformation: Preparing and cleaning healthcare datasets to ensure accuracy and consistency.
  - SQL Queries: Writing complex SQL queries to extract valuable insights based on the requirement given.
  - Healthcare Insights: Identifying trends and correlations in patient outcomes, treatment efficacy, and healthcare costs.
+
+### Procedure/Steps:
+ - Converted the datasets from Excel to CSV format.
+ - Imported the CSV files into MySQL and created the corresponding tables.
+ - Wrote SQL queries based on the project requirements.
 
 ### Tools & Technologies:
   -  MySQL: For querying, organizing, and analyzing healthcare data.
