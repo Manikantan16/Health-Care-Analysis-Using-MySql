@@ -22,3 +22,6 @@ This project focuses on analyzing healthcare-related data to uncover key insight
 
 ### Tools & Technologies:
   -  MySQL: For querying, organizing, and analyzing healthcare data.
+
+### Conclusion:
+  - Before I wrap up, I would like to thank my friend Sunitha 🙏 for being a constant source of inspiration.
