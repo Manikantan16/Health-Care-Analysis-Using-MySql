@@ -14,7 +14,6 @@ This project focuses on analyzing healthcare-related data to uncover key insight
 ### Key Objectives:
  - Data Cleaning & Transformation: Preparing and cleaning healthcare datasets to ensure accuracy and consistency.
  - SQL Queries: Writing complex SQL queries to extract valuable insights based on the requirement given.
- - Healthcare Insights: Identifying trends and correlations in patient outcomes, treatment efficacy, and healthcare costs.
 
 ### Procedure/Steps:
  - Converted the datasets from Excel to CSV format.
